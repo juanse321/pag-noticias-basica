@@ -1,0 +1,36 @@
+
+.content{
+	width:70%;
+	float:right;
+	background:blak;
+
+}
+
+*{
+	padding:0;
+	margin-top:0;
+	font-size:22px;
+	font-family:serif;
+
+}
+
+.barra{
+	margin:0;
+	display:inline-block;
+	float: left;
+
+}
+
+
+.first-title{
+
+	color:white;
+	font-size:35px;
+	height:80px;
+	text-align:center;
+	background:teal;
+}
+.second-title{
+	background:indianred;
+
+}
